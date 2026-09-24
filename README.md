@@ -693,7 +693,7 @@ Example `.env`:
 PORT=3001
 NODE_ENV=development
 DATABASE_PATH=./data/patients.db
-VAPI_WEBHOOK_SECRET=
+VAPI_WEBHOOK_SECRET=cf207c02e0be598ba516046d1225cb2e1987f0fb774398f097a968b90cf151fa
 ```
 
 ### Environment Variable Description
